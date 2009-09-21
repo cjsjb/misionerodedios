@@ -46,7 +46,8 @@
                 a, 2 gis,  |  fis, 2 e, \stopTextSpan |
 
 		% estrofa 3+4
-		R1*16
+		e, 1  |
+		R1*15
 
 		% puente 2
 		R1*6

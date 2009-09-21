@@ -1141,7 +1141,7 @@
 	<event type="note" duration="3840"><property name="pitch" int="81"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="3840"><property name="pitch" int="80"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="3840"><property name="pitch" int="78"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/></event>
-	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="76"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
@@ -1198,7 +1198,7 @@
 	<event type="note" duration="960"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="1920"><property name="pitch" int="69"/><property name="velocity" int="100"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="3"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="1920"><property name="pitch" int="76"/><property name="velocity" int="100"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/></event>
-	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="76"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
@@ -1212,7 +1212,7 @@
 	<event type="note" duration="3840"><property name="pitch" int="81"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="3840"><property name="pitch" int="80"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="3840"><property name="pitch" int="78"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/></event>
-	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="76"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
@@ -1361,8 +1361,7 @@
 	<event type="note" duration="1920"><property name="pitch" int="44"/><property name="velocity" int="100"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="1920"><property name="pitch" int="42"/><property name="velocity" int="100"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="note" duration="1920"><property name="pitch" int="40"/><property name="velocity" int="100"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="-2"/><nproperty name="OttavaShift" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="40"/><property name="velocity" int="100"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/><nproperty name="HeightOnStaff" int="-2"/><nproperty name="OttavaShift" int="0"/></event>
 	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>

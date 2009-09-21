@@ -31,7 +31,8 @@
 		a'' 1  |
 		gis'' 1  |
 		fis'' 1  |
-		R1*4
+		e'' 1  |
+		R1*3
 		a' 8. b' cis'' 8 d'' 8. e'' fis'' 8  |
 
 		% puente 1
@@ -53,12 +54,14 @@
 		e'' 4 d'' cis'' b'  |  a' 2 e'' \stopTextSpan |
 
 		% estrofa 3+4
-		R1*7
+		e'' 1  |
+		R1*6
 		fis'' 2 ~ fis'' 8 gis'' 8. a''  |
 		a'' 1  |
 		gis'' 1  |
 		fis'' 1  |
-		R1*4
+		e'' 1  |
+		R1*3
 		a' 8. b' cis'' 8 d'' 8. e'' fis'' 8  |
 
 		% puente 2
