@@ -5,6 +5,7 @@
 \header {
     composer = "R. Aldana, A. Salinas, P. Valdés"
     title = "Misionero de Dios"
+    subtitle = "Tenor"
     tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -15,31 +16,8 @@ global = {
 }
 globalTempo = {
     \tempo 4 = 92   \skip 1*6 \break
-    \tempo 4 = 102  \skip 1*4 \break
-    \tempo 4 = 107
-	% estrofa 1:
-	\skip 1*8 \break
-	% estrofa 2:
-	\skip 1*8 \break
-	% puente 1:
-	\skip 1*8 \break
-	% coro 1:
-	\skip 1*7 \break
-	% interludio:
-	\skip 1*8 \break
-	% estrofa 3:
-	\skip 1*8 \break
-	% estrofa 4:
-	\skip 1*8 \break
-	% puente 2:
-	\skip 1*8 \break
-	% coro 2:
-	\skip 1*9 \break
-	% coro 3:
-	\skip 1*7 \break
-	% finale:
-	\skip 1*10 \break
-
+    \tempo 4 = 102  \skip 1*4
+    \tempo 4 = 107  \skip 1*89
 }
 \score {
     \new StaffGroup <<
@@ -48,17 +26,12 @@ globalTempo = {
 
 	\include "misionerodedios-marcas.inc"
 	\include "misionerodedios-acordes.inc"
-	\include "misionerodedios-soprano.inc"
-	\include "misionerodedios-mezzo.inc"
 	\include "misionerodedios-tenor.inc"
-	\include "misionerodedios-violin.inc"
-	\include "misionerodedios-cello.inc"
-	\include "misionerodedios-bajo.inc"
     >> % notes
 
     \layout {
 	\context {
-		\RemoveEmptyStaffContext
+		%\RemoveEmptyStaffContext
 	}
     }
 
