@@ -11,7 +11,7 @@
 #(set-default-paper-size "letter")
 global = {
     \time 4/4
-    \skip 1*99
+    \skip 1*98
 }
 globalTempo = {
     \tempo 4 = 92   \skip 1*6 \break
@@ -38,7 +38,7 @@ globalTempo = {
 	% coro 3:
 	\skip 1*7 \break
 	% finale:
-	\skip 1*10 \break
+	\skip 1*9 \break
 
 }
 \score {

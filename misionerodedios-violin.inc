@@ -72,8 +72,13 @@
 
 		% coro 2
                 a'' 1  |
-		R1*25
-%                R1*9  |
-%                \bar "|."
+		R1*8
+
+		% coro 3
+		R1*7
+
+		% finale
+		R1*9
+		\bar "|."
             } % Voice
         >> % Staff
