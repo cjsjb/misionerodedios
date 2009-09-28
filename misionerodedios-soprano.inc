@@ -12,23 +12,128 @@
 
                 \clef "treble"
                 \key a \major
-                R1*89  |
-                r8 a' a' a' gis' a' gis' a' ~  |
-                a' 1  |
-                r8 a' a' a' gis' a' gis' a' ~  |
-                a' 1  |
-%% 95
-                r8 a' a' a' gis' a' gis' a' ~  |
-                a' 2. r4  |
-                R1*4  |
-                \bar "|."
+
+		% [1] intro
+		R1*10  |
+
+		% [2] estrofa 1
+		r4 e' 16. e' e' 8 e'  e'  e' 8.  |
+		e' 8 e' 16 e' 8 e' fis' 8. gis' 4.  |
+		r4  a' 8 a' 16 a' 8. gis' 8 fis' e'   |
+		b' 1  |
+		r4 r8 d' d' d' e' fis'  |
+		gis' 8 gis'  gis'  fis' 4 e' e' 8  |
+		a' 8 a' a' a' gis' a' gis' fis' ~ |
+		fis' 1  |
+
+		% [3] estrofa 2
+		r4 e' 16. e' e' 8 e' e' 4 e' 16  |
+		e' 8 e' 16 e' 8 e' 16. ~ e' fis' 8 gis' 4.  |
+		r8 r16 cis'  a' 8 a' 16  a' 8 gis' fis' e' 8.  |
+		b' 1  |
+		r8 d' d' d' d' d' e' fis'  |
+		e' 8 b 4 cis' d' gis 8  |
+		e' 4 e' 8 e' 4 cis' 8 e' fis' ~  |
+		fis' 1  |
+
+		% [4] puente 1
+		r8 a' a' a' a' a' a' gis' ~  |
+		gis' 8 gis' 2 r8 e' a' ~  |
+		a' 4 a' 8 gis' 4 gis' fis' 8 ~  |
+		fis' 1  |
+		r8 a' a' a' a' a' a' gis' ~  |
+		gis' 8 gis' 4 r8 gis' fis' e' e' ~  |
+		e' 1  |
+		R1  |
+
+		% [5] coro 1
+		R1  |
+		r8 r16 a' a' 16. a' a' 8 a' b' 8. cis'' 8  |
+		R1  |
+		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
+		a' 2 gis' ) |
+		r8 a' a' a' 4 ( gis' 8 fis' e' ) |
+		r8 a' a' a' gis' a' gis' a' ~  |
+		a' 1  |
+
+		R1*31  |
+
+		% [10] coro 2
+		R1
+		r8 r16 a' a' 16. a' a' 8 a' b' 8. cis'' 8  |
+		R1  |
+		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
+		a' 2 gis' ) |
+		r8 a' a' a' 4 ( gis' 8 fis' e' ) |
+		r8 a' a' a' gis' a' gis' a' ~  |
+		a' 1  |
+		R1  |
+
+		% [11] coro 3
+		R1  |
+		r8 r16 a' a' 16. a' a' 8 a' b' 8. cis'' 8  |
+		R1  |
+		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
+		a' 2 gis' ) |
+		r8 a' a' a' 4 ( gis' 8 fis' e' ) |
+		R1
+
+		% [12] finale
+		r8 a' a' a' gis' a' gis' a' ~  |
+		a' 1  |
+		r8 a' a' a' gis' a' gis' a' ~  |
+		a' 1  |
+		r8 a' a' a' gis' a' gis' a' ~  |
+		a' 2. a' 8 a' ~  |
+		a' 1 ( |
+		f' 1  |
+		e' 1 )
+		\bar "|."
             } % Voice
 
 	\lyricsto "voice 8" \new Lyrics \lyricmode {
+		% [1] intro
+
+		% [2] estrofa 1
+		"Por" "un" "tiem" -- "po" "fuis" -- "te a" -- "zo" -- "te" "de" "cris" -- "tia" -- "nos;"
+		"quién" "po" -- "drí" -- "a i" -- "ma" -- "gi" -- "nar"
+		"que" "mien" -- "tras" "per" -- "se" -- "guí" -- "as" "her" -- "ma" -- "nos"
+		"tu" "vi" -- "da en" "un" "ins" -- "tan" -- "te" "cam" -- "bió."
+
+		% [3] estrofa 2
+		"E" -- "se en" -- "cuen" -- "tro" "que" "tu" -- "vis" -- "te" "con" "Je" "sú" __ "s"
+		"a" -- "brió" "tus" "o" -- "jos" "a" "la" "luz."
+		"Fuis" -- "te e" -- "le" -- "gi" -- "do" "pa" -- "ra" "ser" "por" "siem" -- "pre"
+		"un" "mi" -- "sio" -- "ne" -- "ro" "de" "Dios."
+
+		% [4] puente 1
+		"Y" "pre" -- "di" -- "car" "por" "el" "mun" -- "do"
+		"el" "nom" -- "bre" "de" "Je" -- "sús"
+		"pa" -- "ra" "que" "to" -- "dos" "co" -- "noz" -- "can"
+		"su" "sal" -- "va" -- "ción."
+
+		% [5] coro 1
+		"a" "to" -- "das" "las" "na" -- "cio" -- "nes"
+		"la" "luz" "del" "sal" -- "va" -- "dor" __
+		"...co" -- "mo" "tú," __
+		"un" "mi" -- "sio" -- "ne" -- "ro" "de" "Dios."
+
+		% [10] coro 2
+		"a" "to" -- "das" "las" "na" -- "cio" -- "nes"
+		"la" "luz" "del" "sal" -- "va" -- "dor" __
+		"...co" -- "mo" "tú," __
+		"un" "mi" -- "sio" -- "ne" -- "ro" "de" "Dios."
+
+		% [11] coro 3
+		"a" "to" -- "das" "las" "na" -- "cio" -- "nes"
+		"la" "luz" "del" "sal" -- "va" -- "dor" __
+		"...co" -- "mo" "tú," __
+
 		% [12] finale
-		"Un" "mi" "sio" "ne" "ro" "de" "Dios,"
-		"un" "mi" "sio" "ne" "ro" "de" "Dios,"
-		"un" "mi" "sio" "ne" "ro" "de" "Dios."
+		"un" "mi" -- "sio" -- "ne" -- "ro" -- "de" "Dios,"
+		"un" "mi" -- "sio" -- "ne" -- "ro" -- "de" "Dios,"
+		"un" "mi" -- "sio" -- "ne" -- "ro" -- "de" "Dios,"
+		"...de" "Dios" __
 	} % Lyrics
 
         >> % Staff
