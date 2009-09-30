@@ -15,7 +15,7 @@ global = {
     \skip 1*98
 }
 globalTempo = {
-    \tempo 4 = 92   \skip 1*6 \break
+    \tempo 4 = 92   \skip 1*6
     \tempo 4 = 102  \skip 1*4
     \tempo 4 = 107  \skip 1*88
 }
