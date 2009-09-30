@@ -46,7 +46,7 @@
 
 		% [5] coro 1
 		r8 a a b 4 a 8 gis a ~  |  a 8 r r4 r2  |
-		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b 2 ~ b 8 )  |
+		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b ~ b 2 )  |
 		r8 a a a b cis' d' d' ~  |
 		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
 		r8 a a a b cis' b a ~  |
@@ -86,7 +86,7 @@
 
 		% [10] coro 2
 		r8 a a b 4 a 8 gis a ~  |  a 8 r r4 r2  |
-		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b 2 ~ b 8 )  |
+		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b ~ b 2 )  |
 		r8 a a a b cis' d' d' ~  |
 		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
 		r8 a a a b cis' b a ~  |
@@ -95,7 +95,7 @@
 
 		% [11] coro 3
 		r8 a a b 4 a 8 gis a ~  |  a 8 r r4 r2  |
-		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b 2 ~ b 8 )  |
+		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b ~ b 2 )  |
 		r8 a a a b cis' d' d' ~  |
 		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
 		r8 a a a b cis' b a ~  |
