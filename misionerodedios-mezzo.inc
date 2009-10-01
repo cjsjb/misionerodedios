@@ -95,8 +95,8 @@
 		d' 4. d' 8 r4 d' 8 cis' ~  |
 		%% 95
 		cis' 4. r8 cis' 4 e'  |
-		d' 4. d' 8 r4 d' 8 cis' ~  |
-		cis' 1 ( |
+		d' 4. d' 8 r4 d' 8 cis' ( ~  |
+		cis' 1  |
 		c' 1  |
 		cis' 1 )
 		\bar "|."

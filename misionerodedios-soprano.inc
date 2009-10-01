@@ -84,8 +84,8 @@
 		r8 a' a' a' gis' a' gis' a' ~  |
 		a' 1  |
 		r8 a' a' a' gis' a' gis' a' ~  |
-		a' 2. a' 8 a' ~  |
-		a' 1 ( |
+		a' 2. a' 8 a' ( ~  |
+		a' 1  |
 		f' 1  |
 		e' 1 )
 		\bar "|."
