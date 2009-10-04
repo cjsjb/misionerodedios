@@ -55,6 +55,7 @@ globalTempo = {
 	\include "misionerodedios-violin.inc"
 	\include "misionerodedios-cello.inc"
 	%\include "misionerodedios-bajo.inc"
+	\include "misionerodedios-huevo.inc"
     >> % notes
 
     \layout {
