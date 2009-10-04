@@ -60,13 +60,34 @@
 		R1*7  |
 
 		% [7] estrofa 3
-		R1*8  |
+		r4 e' 16. e' e' 8 e' e' e' 8.  |
+		e' 8 e' 16 e' 8 e' fis' 8. gis' 4.  |
+		r4 a' 8 a' 16 a' 8 gis' fis' e' 8.  |
+		cis' 1  |
+		r8 d' d' d' d' d' e' fis'  |
+		e' 8 b b cis' 4 d' a 8  |
+		e' 8 e' e' e' e' cis' e' fis' ~ ( |
+		fis' 8 e' 16 d' ~ d' 2. ) |
 
 		% [8] estrofa 4
-		R1*8  |
+		r4 e' 16. e' e' 8 e' e' e' 8.  |
+		cis' 8 cis' 16 cis' 8 cis' d' 8. cis' 4.  |
+		r4 fis' 8 fis' 16 fis' 8. e' 8 d' cis'  |
+		cis' 1  |
+		r8 d' d' d' d' d' d' d'  |
+		b 8 gis gis a 4 b r8  |
+		e' 8 e' e' e' e' cis' e' fis' ~ ( |
+		fis' 8 e' 16 d' ~ d' 2. ) |
 
 		% [9] puente 2
-		R1*8  |
+		r8 d' d' d' d' d' d' b ~  |
+		b 8 b 2 e 8 e cis' ~  |
+		cis' 4 cis' 8 e' 4 e' cis' 8 ~  |
+		cis' 1  |
+		r4 d' 8 d' 4 d' 8 d' e' ~  |
+		e' 8 e' 4 r8 e' d' cis' cis' ~  |
+		cis' 1  |
+		R1  |
 
 		% [10] coro 2
 		R1  |
@@ -128,6 +149,26 @@
 		"la" "luz" "del" "sal" -- "va" -- "dor" __
 		"...co" -- "mo" "tú," __
 		"un" "mi" -- "sio" -- "ne" -- "ro" "de" "Dios."
+
+		% [6] interludio
+
+		% [7] estrofa 3
+		"En" "tus" "car" -- "tas" "nos" "de" -- "jas" -- "te" "la en" -- "se" -- "ñan" -- "za"
+		"de" "vi" -- "vir" "con" "hu" -- "mil" -- "dad,"
+		"de" "ser" "va" -- "lien" -- "tes" "en" "las" "ad" -- "ver" -- "si" -- "da" -- "des,"
+		"y en" "Cris" -- "to" "nues" -- "tra" "fe" "re" -- "no" -- "var." __
+
+		% [8] estrofa 4
+		"Tu" "mi" -- "sión" "fue u" -- "nir" "a" "to" -- "dos" "co" -- "mo her" -- "ma" -- "nos"
+		"en" "un" "gran" "la" -- "zo" "de a" -- "mor"
+		"y" "con" "la" "fuer" -- "za" "del" "Es" -- "pí" -- "ri" -- "tu" "San" -- "to"
+		"ser" "un" "mi" -- "sio" -- "ne" -- "ro" "de" "Dios." __
+
+		% [9] puente 2
+		"Y" "cuan" -- "do" "lle" -- "gue" "la" "du" -- "da,"
+		"el" "te" -- "mor" "o" "la a" -- "flic" -- "ción,"
+		"a" -- "mi" -- "go" "San" "Pa" -- "blo,"
+		"rue" -- "ga" "por" "mí."
 
 		% [10] coro 2
 		"a" "to" -- "das" "las" "na" -- "cio" -- "nes"
