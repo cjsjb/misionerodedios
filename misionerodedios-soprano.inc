@@ -28,7 +28,7 @@
 
 		% [3] estrofa 2
 		r4 e' 16. e' e' 8 e' e' 4 e' 16  |
-		e' 8 e' 16 e' 8 e' 16. ~ e' fis' 8 gis' 4.  |
+		e' 8 e' 16 e' 8 e' 8. fis' 8 ( gis' 4. ) |
 		r8 r16 cis'  a' 8 a' 16  a' 8 gis' fis' e' 8.  |
 		b' 1  |
 		r8 d' d' d' d' d' e' fis'  |
@@ -132,7 +132,7 @@
 		"tu" "vi" -- "da en" "un" "ins" -- "tan" -- "te" "cam" -- "bió."
 
 		% [3] estrofa 2
-		"E" -- "se en" -- "cuen" -- "tro" "que" "tu" -- "vis" -- "te" "con" "Je" "sú" __ "s"
+		"E" -- "se en" -- "cuen" -- "tro" "que" "tu" -- "vis" -- "te" "con" "Je" "sús" __
 		"a" -- "brió" "tus" "o" -- "jos" "a" "la" "luz."
 		"Fuis" -- "te e" -- "le" -- "gi" -- "do" "pa" -- "ra" "ser" "por" "siem" -- "pre"
 		"un" "mi" -- "sio" -- "ne" -- "ro" "de" "Dios."
