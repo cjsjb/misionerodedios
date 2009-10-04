@@ -10,6 +10,7 @@
                 \override Voice.TextScript #'padding = #2.0
                 \override MultiMeasureRest #'expand-limit = 1
 
+                %\clef "soprano"
                 \clef "treble"
                 \key a \major
 
