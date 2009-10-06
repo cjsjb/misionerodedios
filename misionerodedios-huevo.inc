@@ -6,6 +6,9 @@
 	\set Staff.printKeyCancellation = ##f
 	\drummode {
 
+		%\override NoteHead #'stencil = #ly:text-interface::print
+		%\override NoteHead #'text = #(markup #:musicglyph "scripts.stopped")
+
 		% [1] intro
 		R1*10
 
