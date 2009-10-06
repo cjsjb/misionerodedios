@@ -49,7 +49,7 @@
 		r8 a a b 4 a 8 gis a ~  |  a 8 r r4 r2  |
 		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b ~ b 2 )  |
 		r8 a a a b cis' d' d' ~  |
-		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
+		d' 8 cis' b cis' 4 ( b 8 a a )  |
 		r8 a a a b cis' b a ~  |
 
 		% [6] interludio
@@ -89,7 +89,7 @@
 		r8 a a b 4 a 8 gis a ~  |  a 8 r r4 r2  |
 		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b ~ b 2 )  |
 		r8 a a a b cis' d' d' ~  |
-		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
+		d' 8 cis' b cis' 4 ( b 8 a a )  |
 		r8 a a a b cis' b a ~  |
 		a 1  |
 		R1  |
@@ -98,7 +98,7 @@
 		r8 a a b 4 a 8 gis a ~  |  a 8 r r4 r2  |
 		r8 a a b 4 a 8 gis a ~  |  a 8 (b cis' b ~ b 2 )  |
 		r8 a a a b cis' d' d' ~  |
-		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
+		d' 8 cis' b cis' 4 ( b 8 a a )  |
 		r8 a a a b cis' b a ~  |
 
 		% [12] finale

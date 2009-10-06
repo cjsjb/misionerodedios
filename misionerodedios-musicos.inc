@@ -49,7 +49,7 @@
 		r8 a a gis 4 e 8 gis fis ~  |  fis 8 r r4 r2  |
 		r8 a a gis 4 e 8 gis fis ( ~  |  fis 4. gis 8 ~ gis 2 ) |
 		r8 a a a b cis' d' d' ~  |
-		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
+		d' 8 cis' b cis' 4 ( b 8 a a )  |
 		r8 e e e e e e e ~  |
 
 		% [6] interludio
@@ -89,7 +89,7 @@
 		r8 a a gis 4 e 8 gis fis ~  |  fis 8 r r4 r2  |
 		r8 a a gis 4 e 8 gis fis ( ~  |  fis 4. gis 8 ~ gis 2 ) |
 		r8 a a a b cis' d' d' ~  |
-		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
+		d' 8 cis' b cis' 4 ( b 8 a a )  |
 		r8 e e e e e e e ~  |
 		e 1  |
 		R1  |
@@ -98,7 +98,7 @@
 		r8 a a gis 4 e 8 gis fis ~  |  fis 8 r r4 r2  |
 		r8 a a gis 4 e 8 gis fis ( ~  |  fis 4. gis 8 ~ gis 2 ) |
 		r8 a a a b cis' d' d' ~  |
-		d' 8 cis' b cis' 4 ( b 8 a 4 )  |
+		d' 8 cis' b cis' 4 ( b 8 a a )  |
 		r8 e e e e e e e ~  |
 
 		% [12] finale
@@ -110,7 +110,7 @@
 		r8 a a a b cis' b a ( ~  |
 		a 1 ~  |
 		a 1  |
-		cis' 1 )
+		b 1 )
 		\bar "|."
             } % Voice
 

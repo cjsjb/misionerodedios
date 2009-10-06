@@ -33,7 +33,7 @@
 		r8 r16 cis'  a' 8 a' 16  a' 8 gis' fis' e' 8.  |
 		b' 1  |
 		r8 d' d' d' d' d' e' fis'  |
-		e' 8 b 4 cis' d' gis 8  |
+		e' 8 b 4 cis' d' e 8  |
 		e' 4 e' 8 e' 4 cis' 8 e' fis' ~  |
 		fis' 1  |
 
@@ -49,9 +49,9 @@
 
 		% [5] coro 1
 		R1  |
-		r8 r16 a' a' 16. a' a' 8 a' b' 8. cis'' 8  |
+		r8 r16 e' a' 16. a' a' 8 a' b' 8. cis'' 8  |
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
 		a' 2 gis' ) |
 		r8 a' a' a' 4 ( gis' 8 fis' e' ) |
 		r8 a' a' a' gis' a' gis' a' ~  |
@@ -86,15 +86,15 @@
 		a' 4 a' 8 gis' 4 gis' fis' 8 ~  |
 		fis' 1  |
 		r4 a' 8 a' 4 a' 8 a' gis' ~  |
-		gis' 8 gis' 4 r8 gis' fis' e' e' ~  |
+		gis' 8 gis' r4 gis' 8 fis' e' e' ~  |
 		e' 1  |
 		R1  |
 
 		% [10] coro 2
 		R1
-		r8 r16 a' a' 16. a' a' 8 a' b' 8. cis'' 8  |
+		r8 r16 e' a' 16. a' a' 8 a' b' 8. cis'' 8  |
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
 		a' 2 gis' ) |
 		r8 a' a' a' 4 ( gis' 8 fis' e' ) |
 		r8 a' a' a' gis' a' gis' a' ~  |

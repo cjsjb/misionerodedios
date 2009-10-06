@@ -23,17 +23,17 @@
 		r4 a' 8 a' 16 a' 8. gis' 8 fis' e'  |
 		cis' 1  |
 		r4 r8 d' d' d' e' fis'  |
-		e' 8 b b cis' 4 d' a 8  |
+		e' 8 b b cis' 4 d' e 8  |
 		e' 8 e' e' e' e' cis' e' fis' ~  |
 		fis' 8 ( e' 16 d' ~ d' 2. ) |
 
 		% [3] estrofa 2
 		r4 e' 16. e' e' 8 e' e' 4 e' 16  |
 		cis' 8 cis' 16 cis' 8 cis' 8. d' 8 ( cis' 4. )  |
-		r8 r16 cis' fis' 8 fis' 16 fis' 8 e' d' cis' 8.  |
+		r8 r16 a fis' 8 fis' 16 fis' 8 e' d' cis' 8.  |
 		cis' 1  |
 		r8 d' d' d' d' d' d' d'  |
-		b 8 gis 4 a b gis 8  |
+		b 8 gis 4 a b e 8  |
 		e' 4 e' 8 e' 4 cis' 8 e' fis' ~  |
 		fis' 8 ( e' 16 d' ~ d' 2. ) |
 
@@ -49,11 +49,11 @@
 
 		% [5] coro 1
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' 8. e' 8  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' 8. e' 8  |
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( e' 8. ~ |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' ( e' 8. ~ |
 		e' 1 ) |
-		r8 d' d' e' 4 ( d' 8 cis' 4 ) |
+		r8 d' d' e' 4 ( d' 8 cis' cis'  ) |
 		r8 cis' cis' cis' d' e' d' cis' ~  |
 
 		% [6] interludio
@@ -66,7 +66,7 @@
 		r4 a' 8 a' 16 a' 8 gis' fis' e' 8.  |
 		cis' 1  |
 		r8 d' d' d' d' d' e' fis'  |
-		e' 8 b b cis' 4 d' a 8  |
+		e' 8 b b cis' 4 d' e 8  |
 		e' 8 e' e' e' e' cis' e' fis' ~ ( |
 		fis' 8 e' 16 d' ~ d' 2. ) |
 
@@ -86,28 +86,28 @@
 		cis' 4 cis' 8 e' 4 e' cis' 8 ~  |
 		cis' 1  |
 		r4 d' 8 d' 4 d' 8 d' e' ~  |
-		e' 8 e' 4 r8 e' d' cis' cis' ~  |
+		e' 8 e' r4 e' 8 d' cis' cis' ~  |
 		cis' 1  |
 		R1  |
 
 		% [10] coro 2
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' 8. e' 8  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' 8. e' 8  |
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( e' 8.  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' ( e' 8.  |
 		e' 1 ) |
-		r8 d' d' e' 4 ( d' 8 cis' 4 )  |
+		r8 d' d' e' 4 ( d' 8 cis' cis' )  |
 		r8 cis' cis' cis' d' e' d' cis' ~  |
 		cis' 1  |
 		R1  |
 
 		% [11] coro 3
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' 8. e' 8  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' 8. e' 8  |
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( e' 8. ~ |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' ( e' 8. ~ |
 		e' 1 ) |
-		r8 d' d' e' 4 ( d' 8 cis' 4 ) |
+		r8 d' d' e' 4 ( d' 8 cis' cis' ) |
 		r8 cis' cis' cis' d' e' d' cis' ~  |
 
 		% [12] finale
