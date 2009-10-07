@@ -14,30 +14,31 @@ global = {
 	\skip 1*98
 }
 globalTempo = {
+	% [1] intro
 	\tempo 4 = 92   \skip 1*6 %\break
 	\tempo 4 = 102  \skip 1*4 %\break
 	\tempo 4 = 107
-	% estrofa 1:
+	% [2] estrofa 1
 	\skip 1*8 %\break
-	% estrofa 2:
+	% [3] estrofa 2
 	\skip 1*8 %\break
-	% puente 1:
+	% [4] puente 1
 	\skip 1*8 %\break
-	% coro 1:
+	% [5] coro 1
 	\skip 1*7 %\break
-	% interludio:
+	% [6] interludio
 	\skip 1*8 %\break
-	% estrofa 3:
+	% [7] estrofa 3
 	\skip 1*8 %\break
-	% estrofa 4:
+	% [8] estrofa 4
 	\skip 1*8 %\break
-	% puente 2:
+	% [9] puente 2
 	\skip 1*8 %\break
-	% coro 2:
+	% [10] coro 2
 	\skip 1*9 %\break
-	% coro 3:
+	% [11] coro 3
 	\skip 1*7 %\break
-	% finale:
+	% [12] finale
 	\skip 1*9 %\break
 }
 \score {
