@@ -103,9 +103,9 @@
 
 		% [11] coro 3
 		R1  |
-		r8 r16 a' a' 16. a' a' 8 a' b' 8. cis'' 8  |
+		r8 r16 e' a' 16. a' a' 8 a' b' 8. cis'' 8  |
 		R1  |
-		r8 r16 fis' fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
+		r8 r16 a fis' 16. fis' fis' 8 e' fis' ( a' 8.  |
 		a' 2 gis' ) |
 		r8 a' a' a' 4 ( gis' 8 fis' e' ) |
 		R1
