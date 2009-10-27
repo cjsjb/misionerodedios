@@ -3,10 +3,10 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-    composer = "R. Aldana, A. Salinas, P. Valdés"
-    title = "Misionero de Dios"
-    subtitle = "Soprano"
-    tagline = "Coro Juvenil San Juan Bosco"
+	composer = "R. Aldana, A. Salinas, P. Valdés"
+	title = "Misionero de Dios"
+	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Soprano"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
