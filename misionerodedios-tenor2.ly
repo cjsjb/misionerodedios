@@ -26,7 +26,7 @@ globalTempo = {
 
 	\include "misionerodedios-marcas.inc"
 	\include "misionerodedios-acordes.inc"
-	\include "misionerodedios-musicos.inc"
+	\include "misionerodedios-tenor2.inc"
     >> % notes
 
     \layout {

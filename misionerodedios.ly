@@ -51,7 +51,7 @@ globalTempo = {
 		\include "misionerodedios-soprano.inc"
 		\include "misionerodedios-mezzo.inc"
 		\include "misionerodedios-tenor.inc"
-		\include "misionerodedios-musicos.inc"
+		\include "misionerodedios-tenor2.inc"
 		\include "misionerodedios-violin.inc"
 		\include "misionerodedios-cello.inc"
 		%\include "misionerodedios-bajo.inc"
