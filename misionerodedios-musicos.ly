@@ -5,7 +5,7 @@
 \header {
     composer = "R. Aldana, A. Salinas, P. Valdés"
     title = "Misionero de Dios"
-    subtitle = "Músicos"
+    subtitle = "Tenor II"
     tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)

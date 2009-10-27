@@ -1,6 +1,6 @@
         \context Staff = "Tenor" \with { \consists Ambitus_engraver } << 
-            \set Staff.instrumentName = "Tenor"
-            \set Staff.shortInstrumentName = "T."
+            \set Staff.instrumentName = "Tenor I"
+            \set Staff.shortInstrumentName = "T.1"
             \set Score.skipBars = ##t
             \set Staff.printKeyCancellation = ##f
             \new Voice \global
