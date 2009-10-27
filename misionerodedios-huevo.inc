@@ -1,7 +1,7 @@
 \context DrumStaff = "Huevo"
 << 
 	\set Staff.instrumentName = "Huevo"
-	\set Staff.shortInstrumentName = "H"
+	\set Staff.shortInstrumentName = "H."
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\drummode {
