@@ -48,16 +48,18 @@ globalTempo = {
 	\skip 1*9 %\break
 }
 \score {
-	\new StaffGroup <<
+	<<
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "misionerodedios-marcas.inc"
 		\include "misionerodedios-acordes.inc"
-		\include "misionerodedios-soprano.inc"
-		\include "misionerodedios-mezzo.inc"
-		\include "misionerodedios-tenor.inc"
-		\include "misionerodedios-tenor2.inc"
+		\new StaffGroup <<
+			\include "misionerodedios-soprano.inc"
+			\include "misionerodedios-mezzo.inc"
+			\include "misionerodedios-tenor.inc"
+			\include "misionerodedios-tenor2.inc"
+		>>
 		\include "misionerodedios-violin.inc"
 		\include "misionerodedios-cello.inc"
 		%\include "misionerodedios-bajo.inc"
