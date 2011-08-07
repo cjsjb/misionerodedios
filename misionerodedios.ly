@@ -17,7 +17,7 @@
 }
 global = {
 	\time 4/4
-	\skip 1*98
+	\skip 1*99
 }
 globalTempo = {
 	% [1] intro
@@ -45,7 +45,7 @@ globalTempo = {
 	% [11] coro 3
 	\skip 1*7 %\break
 	% [12] finale
-	\skip 1*9 %\break
+	\skip 1*10 %\break
 }
 \score {
 	<<

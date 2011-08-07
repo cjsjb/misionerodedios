@@ -121,6 +121,7 @@
 		mar8 mar8 mar8^^ mar mar8 mar8 mar8^^ mar |
 		mar8 mar8 mar8^^ mar mar8 mar8 mar8^^ mar |
 		mar8 mar8 mar8^^ mar mar8 mar8 mar8^^ mar |
+		mar1^^  |
 		\bar "|."
 
 	} % drummode

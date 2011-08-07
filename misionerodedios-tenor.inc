@@ -110,7 +110,8 @@
 		r8 a a a b cis' b a ~  |
 		a 1 ~  |
 		a 1 ~  |
-		a 1
+		a 1  |
+		R1  |
 		\bar "|."
             } % Voice
 

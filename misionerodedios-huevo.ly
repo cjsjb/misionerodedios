@@ -18,12 +18,12 @@
 }
 global = {
     \time 4/4
-    \skip 1*98
+    \skip 1*99
 }
 globalTempo = {
     \tempo 4 = 92   \skip 1*6
     \tempo 4 = 102  \skip 1*4
-    \tempo 4 = 107  \skip 1*88
+    \tempo 4 = 107  \skip 1*89
 }
 \score {
     \new StaffGroup <<

@@ -58,4 +58,5 @@
 		d1:maj7
 		f1:maj7sus2
 		a1:maj7
+		a1:maj7
 		}

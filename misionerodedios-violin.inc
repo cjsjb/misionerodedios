@@ -78,7 +78,7 @@
 		R1*7
 
 		% finale
-		R1*9
+		R1*10
 		\bar "|."
             } % Voice
         >> % Staff

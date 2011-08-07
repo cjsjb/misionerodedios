@@ -120,7 +120,8 @@
 		d' 4. d' 8 r4 d' 8 cis' ( ~  |
 		cis' 1  |
 		c' 1  |
-		cis' 1 )
+		cis' 1 )  |
+		R1  |
 		\bar "|."
             } % Voice
 
