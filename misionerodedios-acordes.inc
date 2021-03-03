@@ -1,6 +1,7 @@
 	\context ChordNames
 		\chords {
 		\set majorSevenSymbol = \markup { "maj7" }
+		\set chordChanges = ##t
 
 		% intro
 		a1 e1 d1 e1 d1 e1 f1:maj7 g1:6 a1:maj7 e1
@@ -16,10 +17,9 @@
 		d1 e1 a1 e1
 
 		% coro 1
-		%% TODO: quitar r2
-		a4. e8:/a ~ r2 d4.:/a e8:/a ~ r2
-		a4. e8:/a ~ r2 d4.:/a e8:/a ~ r2
-		a2 e2 d4. e8 ~ r2
+		a4. e8:/a ~ e2:/a d4.:/a e8:/a ~ e2:/a
+		a4. e8:/a ~ e2:/a d4.:/a e8:/a ~ e2:/a
+		a2 e2 d4. e8 ~ e2
 		a2 e2 %...
 
 		% interludio
@@ -39,16 +39,15 @@
 		d1 e1 a1 e1
 
 		% coro 2
-		%% TODO: quitar r2
-		a4. e8:/a ~ r2 d4.:/a e8:/a ~ r2
-		a4. e8:/a ~ r2 d4.:/a e8:/a ~ r2
-		a2 e2 d4. e8 ~ r2
+		a4. e8:/a ~ e2:/a d4.:/a e8:/a ~ e2:/a
+		a4. e8:/a ~ e2:/a d4.:/a e8:/a ~ e2:/a
+		a2 e2 d4. e8 ~ e2
 		a2 e2 %...
 		a1 e1
 
 		% coro 3
 		r1 r1 r1 r1
-		a2 e2 d4. e8 ~ r2
+		a2 e2 d4. e8 ~ e2
 		a2 e2 %...
 
 		% finale
