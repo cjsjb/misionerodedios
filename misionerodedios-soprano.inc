@@ -6,7 +6,7 @@
             \new Voice \global
             \new Voice \globalTempo
 
-            \context Voice = "voice 8" {
+            \context Voice = "voz-soprano" {
                 \override Voice.TextScript #'padding = #2.0
                 \override MultiMeasureRest #'expand-limit = 1
 
@@ -124,7 +124,7 @@
 		\bar "|."
             } % Voice
 
-	\lyricsto "voice 8" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		% [1] intro
 
 		% [2] estrofa 1
